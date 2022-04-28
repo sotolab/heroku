@@ -4,10 +4,11 @@
     $ cd node_metamask_ropsten_contract
 
     $ npm install  -g    heroku
+    
     최초
     $ heroku login
     $ heroku git:clone -a sotoedu 
-    $ cd sotoedu
+    $ cd node_metamask_ropsten_contract
     $ rm -rf .git/
     $ git init
     $ git add .
