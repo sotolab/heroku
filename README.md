@@ -1,7 +1,7 @@
 # heroku
 
-    $ git clone https://github.com/sotolab/node_metamask_ropsten_contract.git
-    $ cd node_metamask_ropsten_contract
+    $ git clone https://github.com/sotolab/node_html.git
+    $ cd node_html
 
     $ npm install  -g    heroku
     
