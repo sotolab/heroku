@@ -7,8 +7,8 @@
     
     최초
     $ heroku login
-    $ heroku git:clone -a sotoedu 
-    $ cd node_metamask_ropsten_contract
+    $ heroku git:clone -a myproject
+    $ cd node_html
     $ rm -rf .git/
     $ git init
     $ git add .
